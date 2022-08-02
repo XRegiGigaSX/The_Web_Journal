@@ -25,7 +25,7 @@ export default function Navbar(props) {
                   <a className="nav-link active" aria-current="page" href="/">Home</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">GitHub </a>
+                  <a className="nav-link" href="https://github.com/XRegiGigaSX/The_Web_Journal">GitHub </a>
                 </li>
                 <li className="nav-item dark">
                   <button type="button" className="btn btn-dark" onClick={() => {
