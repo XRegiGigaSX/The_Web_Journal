@@ -5,6 +5,7 @@ import Carousel from "./components/Carousel.jsx"
 import Loading from "./components/Loading.jsx"
 import Footer from "./components/Footer.jsx"
 import Clock, { DateFormat } from "./components/Clock.jsx"
+import "./App.css"
 // import sampleData from "./sample-output.json"
 
 // const bodyParser = require("body-parser")
@@ -109,7 +110,7 @@ export default function App() {
       <Carousel 
         handleCategory={handleCategory}
       />
-      
+
       {(!data.length)?<Loading />:
       <div className="album py-5">
       <div className="container marketing"> 

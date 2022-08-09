@@ -24,11 +24,6 @@ export default function Carousel(props) {
           </div>
         </div>
         <div className="carousel-item active carousel1">
-          {/* <svg className="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"
-            aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <rect width="100%" height="100%" fill="#777" />
-          </svg> */}
-
           <div className="container">
             <div className="carousel-caption text-start">
               <h1>Welcome to The Web Journal, your daily dose of high quality news.</h1>

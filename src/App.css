@@ -42,11 +42,11 @@ body {
 }
 
 .carousel1 {
-  background-image: url("./carousel1.jpg")
+  background-image: url("../public/carousel1.jpg")
 }
 
 .carousel2 {
-  background-image: url("./carousel2.png")
+  background-image: url("../public/carousel2.png")
 }
 
 .carousel-caption {
