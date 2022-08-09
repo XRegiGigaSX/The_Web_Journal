@@ -32,8 +32,6 @@ export default function App() {
     '&sortBy=popularity&language=en&category=' + [category] +
     '&apiKey=8c523c6f3f5f4c23b93eb4e7136556a9';
 
-  console.log(url);
-
   const [darkt, setDarkt] = useState(true);
   
   // const [res, setRes] = useState({});
